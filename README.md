@@ -1,8 +1,8 @@
-### **Projeto de Conhecimento Inicial com Docker**  
+# **Projeto de Conhecimento Inicial com Docker**  
 
 Este projeto tem como objetivo demonstrar os conhecimentos iniciais adquiridos em Docker durante o curso na Trybe. Nele, foram realizadas uma série de tarefas relacionadas à criação de containers, gerenciamento de imagens e execução de serviços.
 
-### **Tarefas Realizadas**
+## **Tarefas Realizadas**
 
 ### 1. Criação do Container "01container"
    
